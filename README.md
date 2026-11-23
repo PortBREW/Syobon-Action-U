@@ -2,8 +2,8 @@ Open Syobon Action
 ==================
 ###### Original game developer: Chiku (ちく)
 ###### Open-source port developer: Mathew Velasquez
-###### Developer/maintainer of this fork: Karen／明美 (@angelXwind)
-###### Ported by: PortBREW
+###### Developer/maintainer of the fork of this fork: Karen／明美 (@angelXwind)
+###### Developer/maintainer of THIS fork: PortBREW
 
 Open Syobon Action (オープンしょぼんのアクション) is an open-source cross-platform port of the unforgiving Japanese platformer using SDL, ported to the Wii U with widescreen and an English translation.
 
