@@ -78,7 +78,7 @@ creates `dist/wiiu/apps/SyobonActionU/` containing the `.wuhb`, the `.rpx`, and 
 Installing and running
 -----------------
 
-Requires a Wii U running **Aroma** (or Tiramisu) with the Homebrew Launcher.
+Requires a Wii U running **Aroma** (or Tiramisu (untested)) with the Homebrew Launcher.
 
 1. Copy `wiiu/apps/SyobonActionU/` to `sd:/wiiu/apps/SyobonActionU/`.
 2. Launch **Syobon Action U** from the Homebrew Launcher (`.rpx`) or
