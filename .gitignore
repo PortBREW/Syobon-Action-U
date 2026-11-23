@@ -1,0 +1,15 @@
+# Build outputs
+build/
+*.elf
+*.rpx
+*.wuhb
+*.lst
+*.d
+
+# Packaging output
+dist/
+
+# Editor / OS junk
+.DS_Store
+*.swp
+*~
